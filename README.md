@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hey, I'm Nitin 👋<br><br>I'm an AI & ML engineering student at Vemana Institute of Technology, Bengaluru. I like building things that actually do something — I move pretty freely between hardware and software, one week debugging power delivery on a battery pack, the next tuning a classifier.<br><br>🔭 I'm currently working on ARACHNE, an 18-DoF hexapod robot<br>🌱 I'm currently Pursuing my Bachelor's in Artificial Intelligence and Machine Learning<br>👯 I'm looking to collaborate on robotics and ML projects<br>💬 Ask me about robotics, embedded systems, or ML<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I like gaming
+Hey, I'm Nitin 👋<br><br>I'm an AI & ML engineering student at Vemana Institute of Technology, Bengaluru. I like building things that actually do something — I move pretty freely between hardware and software, one week debugging power delivery on a battery pack, the next tuning a classifier.<br><br>
+
+![](https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)<br><br>
+
+🔭 I'm currently working on ARACHNE, an 18-DoF hexapod robot<br>🌱 I'm currently Pursuing my Bachelor's in Artificial Intelligence and Machine Learning<br>👯 I'm looking to collaborate on robotics and ML projects<br>💬 Ask me about robotics, embedded systems, or ML<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I like gaming
 
 
 ## 🌐 Socials:
